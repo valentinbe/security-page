@@ -127,7 +127,6 @@ body, html {
     -webkit-box-flex: 0;
         -ms-flex: none;
             flex: none;
-    position: -webkit-sticky;
     position: sticky;
     top: 100px; }
     .security-content .left .table-of-contents {
